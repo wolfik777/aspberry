@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wolfik777.github.io/aspberry-site/sitemap.xml
